@@ -10,6 +10,7 @@ header {
         position: relative;
         max-width: 100%;
     }
+    
     .navicon {
         position: absolute;
         top: 2rem;
